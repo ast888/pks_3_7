@@ -1,16 +1,9 @@
-# medic_application
+# Программирование корпоративных систем
+### Дисциплина: Программирование корпоративных систем
+### Семестр: 5
+### Выполнил студент ЭФБО-02-22 Степаненко Артем
+### Практическая работа 7
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Содержание работы : 
+Создание приложения для медицинской клиники на Flutter и Dart.
+![Android Emulator - Medium_Phone_API_35_5554 2024-10-30 04-06-32](https://github.com/user-attachments/assets/c0ea2626-69df-487e-9b60-fcc390fd6ba2)
